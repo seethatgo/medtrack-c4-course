@@ -1,0 +1,22 @@
+# Maven / Java build output
+target/
+*.class
+*.jar
+*.war
+
+# Maven wrapper (not used here)
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS junk
+.DS_Store
+Thumbs.db
