@@ -33,9 +33,16 @@ workspace "MedTrack — Team __" "Exercise 5 starter" {
             autoLayout
         }
         styles {
-            element "Person" { shape person }
-            element "Database" { shape cylinder }
-            element "External" { background #999999 color #ffffff }
+            element "Person" {
+                shape person
+            }
+            element "Database" {
+                shape cylinder
+            }
+            element "External" {
+                background #999999
+                color #ffffff
+            }
         }
     }
 }
